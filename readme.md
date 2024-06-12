@@ -55,7 +55,7 @@ This is the backend of the Todo application built using Node.js, Express, Prisma
 
 1. **Clone the repository:**
    ```bash
-   git clone <repository-url>
+   git clone git@github.com:raushankcse/techaxlabs-backend.git
    cd backend
 
 2. **Install dependencies:**
