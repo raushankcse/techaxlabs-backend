@@ -1,5 +1,4 @@
 
-```markdown
 # Todo App Backend
 
 This is the backend of the Todo application built using Node.js, Express, Prisma ORM, and PostgreSQL. It provides API endpoints for user authentication and todo management.
@@ -21,26 +20,26 @@ This is the backend of the Todo application built using Node.js, Express, Prisma
 
 ## Project Structure
 
-```
-.
-├── controllers
-│ ├── authController.js
-│ └── todoController.js
-├── middleware
-│ └── auth.js
-├── models
-│ └── prisma.schema
-├── routes
-│ ├── authRoutes.js
-│ └── todoRoutes.js
-├── config
-│ └── db.config.js
-├── .env
-├── package.json
-├── prisma
-│ ├── migrations
-│ ├── schema.prisma
-└── server.js```
+  ```
+    ├── controllers
+    │ ├── authController.js
+    │ └── todoController.js
+    ├── middleware
+    │ └── auth.js
+    ├── models
+    │ └── prisma.schema
+    ├── routes
+    │ ├── authRoutes.js
+    │ └── todoRoutes.js
+    ├── config
+    │ └── db.config.js
+    ├── .env
+    ├── package.json
+    ├── prisma
+    │ ├── migrations
+    │ ├── schema.prisma
+    └── server.js
+  ```
 
 
 
